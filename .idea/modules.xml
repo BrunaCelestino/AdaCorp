@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AdaCompany.iml" filepath="$PROJECT_DIR$/.idea/AdaCompany.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AdaCompany/ada.AdaCompany.iml" filepath="$PROJECT_DIR$/AdaCompany/ada.AdaCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AdaCorp.iml" filepath="$PROJECT_DIR$/.idea/AdaCorp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdaCompany/ada.AdaCorp.iml" filepath="$PROJECT_DIR$/AdaCompany/ada.AdaCorp.iml" />
     </modules>
   </component>
 </project>

@@ -7,16 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ada.AdaCompany" />
+        <module name="ada.AdaCorp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ada.AdaCompany" target="17" />
+      <module name="ada.AdaCorp" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ada.AdaCompany" options="-parameters" />
+      <module name="ada.AdaCorp" options="-parameters" />
     </option>
   </component>
 </project>
